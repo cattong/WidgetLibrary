@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">↓松开载入更多</string>
+    <string name="xlistview_footer_hint_loading">加载中...</string>
+    <string name="xlistview_footer_hint_end">已经最后一页了</string>  
+    
+    <!-- time span -->
+	<string name="label_time_format_within_seconds"> %1$d秒内</string>
+	<string name="label_time_format_half_minute_ago"> 半分钟前</string>
+	<string name="label_time_format_within_one_minute"> 1分钟内</string>
+	<string name="label_time_format_one_minute_ago"> 1分钟前</string>
+	<string name="label_time_format_minutes_ago"> %1$d分钟前</string>
+	<string name="label_time_format_one_hour_ago"> 1小时前</string>
+	<string name="label_time_format_today"> 今天 %1$s</string>
+	<string name="label_time_format_hours_ago"> %1$d小时前</string>
+	<string name="label_time_format_one_day_ago"> 1天前</string>
+	<string name="label_time_format_days_ago"> %1$d天前</string>
+	<string name="label_time_format_weeks_ago"> %1$d周前</string>
+</resources>

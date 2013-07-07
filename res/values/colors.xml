@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Commons -->
+	<color name="transparent">#0FFF</color>
+	<color name="black">#000000</color>
+	<color name="white">#FFFFFF</color>
+	<color name="red">#FF0000</color>
+    
+	<color name="content">#000000</color><!-- 内容文字的主颜色 -->
+	<color name="link">#308ddb</color><!-- 链接,##,@的颜色 -->
+	<color name="link_bg">#b8d8f8</color><!-- 链接,##,@的背景颜色 -->
+	<color name="emphasize">#5986d3</color><!-- 强调区域颜色，如需突出的部分，时间或转发评论 -->
+	<color name="remind">#f0a820</color><!-- 提醒色，未读时间 -->
+    <color name="quote">#666666</color><!-- 引用区域的颜色 -->
+    <color name="remark">#b0b0b1</color><!-- 备注的颜色 -->
+    
+
+
+
+</resources>

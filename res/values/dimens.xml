@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="content_line_spacing_extra">4sp</dimen>
+    <dimen name="checkbox">15sp</dimen>
+    <!-- 字体 -->
+    <dimen name="content">16sp</dimen>
+    <dimen name="list_footer_text">18sp</dimen>
+
+</resources>

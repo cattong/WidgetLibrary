@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 从左边滑入，针对将要进入的界面 -->
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+	<translate android:fromXDelta="-60%p" android:toXDelta="0%p"
+            android:duration="@android:integer/config_mediumAnimTime"/>
+	<alpha android:fromAlpha="0.0" android:toAlpha="1.0"
+            android:duration="@android:integer/config_mediumAnimTime" />
+</set>
